@@ -7,12 +7,11 @@ ONESHOT_ENABLE = yes
 ENCODER_ENABLE = yes
 ENCODER_MAP_ENABLE = yes
 
-# Enable OLED (if you have displays)
-OLED_ENABLE = yes
 
 # Reduce firmware size
 LTO_ENABLE = yes
 
+VIA_ENABLE = yes
 # Optional: Enable Caps Word (Seniply uses this)
 CAPS_WORD_ENABLE = yes
 
